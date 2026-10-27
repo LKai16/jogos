@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://download (1).jpg" type="Texture" id=1]
+
+[node name="fase2" type="Node2D"]
+
+[node name="Download(1)" type="Sprite" parent="."]
+position = Vector2( 189, 129 )
+texture = ExtResource( 1 )
